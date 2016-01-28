@@ -1,0 +1,1 @@
+Mit PhpMyTools können sie mit einer Installation auf ihrem Webserver verschiedene Tools installieren. Geplant sind Gästebuch, Forenintigation (phpBB), Counter, Kontaktfomular, Image-hochlader und Verknüpfungen zu diversen nützlichen JavaScripts
